@@ -1,0 +1,4 @@
+SPEC
+
+#1 Input : A  Output: 1
+The user will input the letter A to begin with, the output will return the number amount its been called.

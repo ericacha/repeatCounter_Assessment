@@ -2,10 +2,17 @@
 
     class RepeatCounter
     {
-        function countRepeats($, $)
-        {
 
+        function countRepeats($input)
+        {
+        $input = $letter;
+        $letter = "A";
+        if ($result = substr_count($letter,"A")) {
+            return $result;
         }
+        }
+
+
 
     }
 
