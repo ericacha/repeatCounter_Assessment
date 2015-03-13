@@ -1,4 +1,9 @@
 SPEC
 
-#1 Input : A  Output: 1
-The user will input the letter A to begin with, the output will return the number amount its been called.
+#1 InputString : A , InputWord: A,  Output: 2
+The user will input a single letter, "A" to begin with, the output will return the number amount its been called.
+
+#2 Input : A ,A , Output: 2
+The user will input two of the same letters, "A,  A", the output will return the number 2 that its been called.
+
+#3
